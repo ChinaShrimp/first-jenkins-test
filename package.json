@@ -1,0 +1,8 @@
+{
+  "name": "first-jenkins-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ChinaShrimp/first-jenkins-test.git",
+  "author": "梁亮 <liang.liang@cctrend.com.cn>",
+  "license": "MIT"
+}
